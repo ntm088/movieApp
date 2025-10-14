@@ -1,0 +1,17 @@
+# Folders to ignore
+.git
+node_modules
+dist
+build
+coverage
+tmp
+Dockerfile.old
+
+# Logs and OS clutter
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
